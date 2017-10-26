@@ -1,0 +1,1040 @@
+Thu Oct 26 07:03:31 UTC 2017 Extraction of top domains is successful, open /opt/top_domains/topdom file for result.
+Thu Oct 26 07:04:02 UTC 2017 Extraction of top domains is successful, open /opt/top_domains/topdom file for result.
+Thu Oct 26 07:04:17 UTC 2017 Extraction of top domains is successful, open /opt/top_domains/topdom file for result.
+Thu Oct 26 07:04:54 UTC 2017 Extraction of top domains is successful, open /opt/top_domains/topdom file for result.
+Thu Oct 26 07:05:01 UTC 2017 Extraction of top domains is successful, open /opt/top_domains/topdom file for result.
+Thu Oct 26 07:05:24 UTC 2017 Extraction of top domains is successful, open /opt/top_domains/topdom file for result.
+Thu Oct 26 07:08:56 UTC 2017 Extraction of top domains is successful, open /opt/top_domains/topdom.json file for result.
+Thu Oct 26 07:18:10 UTC 2017 Extraction of domains is successful.
+cat: sample.json: No such file or directory
+jq: error: x/0 is not defined at <top-level>, line 1:
+.match.buckets[x]               
+jq: 1 compile error
+cat: sample.json: No such file or directory
+jq: error: x/0 is not defined at <top-level>, line 1:
+.match.buckets[x]               
+jq: 1 compile error
+cat: sample.json: No such file or directory
+jq: error: x/0 is not defined at <top-level>, line 1:
+.match.buckets[x]               
+jq: 1 compile error
+cat: sample.json: No such file or directory
+jq: error: x/0 is not defined at <top-level>, line 1:
+.match.buckets[x]               
+jq: 1 compile error
+cat: sample.json: No such file or directory
+jq: error: x/0 is not defined at <top-level>, line 1:
+.match.buckets[x]               
+jq: 1 compile error
+cat: sample.json: No such file or directory
+jq: error: x/0 is not defined at <top-level>, line 1:
+.match.buckets[x]               
+jq: 1 compile error
+cat: sample.json: No such file or directory
+jq: error: x/0 is not defined at <top-level>, line 1:
+.match.buckets[x]               
+jq: 1 compile error
+cat: sample.json: No such file or directory
+jq: error: x/0 is not defined at <top-level>, line 1:
+.match.buckets[x]               
+jq: 1 compile error
+cat: sample.json: No such file or directory
+jq: error: x/0 is not defined at <top-level>, line 1:
+.match.buckets[x]               
+jq: 1 compile error
+cat: sample.json: No such file or directory
+jq: error: x/0 is not defined at <top-level>, line 1:
+.match.buckets[x]               
+jq: 1 compile error
+Thu Oct 26 07:18:10 UTC 2017 See top 10 domain on /opt/top_domains/top.json file
+Thu Oct 26 07:19:11 UTC 2017 Extraction of domains is successful.
+cat: sample.json: No such file or directory
+jq: error: x/0 is not defined at <top-level>, line 1:
+.match.buckets[$x]               
+jq: 1 compile error
+cat: sample.json: No such file or directory
+jq: error: x/0 is not defined at <top-level>, line 1:
+.match.buckets[$x]               
+jq: 1 compile error
+cat: sample.json: No such file or directory
+jq: error: x/0 is not defined at <top-level>, line 1:
+.match.buckets[$x]               
+jq: 1 compile error
+cat: sample.json: No such file or directory
+jq: error: x/0 is not defined at <top-level>, line 1:
+.match.buckets[$x]               
+jq: 1 compile error
+cat: sample.json: No such file or directory
+jq: error: x/0 is not defined at <top-level>, line 1:
+.match.buckets[$x]               
+jq: 1 compile error
+cat: sample.json: No such file or directory
+jq: error: x/0 is not defined at <top-level>, line 1:
+.match.buckets[$x]               
+jq: 1 compile error
+cat: sample.json: No such file or directory
+jq: error: x/0 is not defined at <top-level>, line 1:
+.match.buckets[$x]               
+jq: 1 compile error
+cat: sample.json: No such file or directory
+jq: error: x/0 is not defined at <top-level>, line 1:
+.match.buckets[$x]               
+jq: 1 compile error
+cat: sample.json: No such file or directory
+jq: error: x/0 is not defined at <top-level>, line 1:
+.match.buckets[$x]               
+jq: 1 compile error
+cat: sample.json: No such file or directory
+jq: error: x/0 is not defined at <top-level>, line 1:
+.match.buckets[$x]               
+jq: 1 compile error
+Thu Oct 26 07:19:11 UTC 2017 See top 10 domain on /opt/top_domains/top.json file
+Thu Oct 26 07:19:48 UTC 2017 Extraction of domains is successful.
+cat: sample.json: No such file or directory
+jq: error: x/0 is not defined at <top-level>, line 1:
+.match.buckets[$x]               
+jq: 1 compile error
+cat: sample.json: No such file or directory
+jq: error: x/0 is not defined at <top-level>, line 1:
+.match.buckets[$x]               
+jq: 1 compile error
+cat: sample.json: No such file or directory
+jq: error: x/0 is not defined at <top-level>, line 1:
+.match.buckets[$x]               
+jq: 1 compile error
+cat: sample.json: No such file or directory
+jq: error: x/0 is not defined at <top-level>, line 1:
+.match.buckets[$x]               
+jq: 1 compile error
+cat: sample.json: No such file or directory
+jq: error: x/0 is not defined at <top-level>, line 1:
+.match.buckets[$x]               
+jq: 1 compile error
+cat: sample.json: No such file or directory
+jq: error: x/0 is not defined at <top-level>, line 1:
+.match.buckets[$x]               
+jq: 1 compile error
+cat: sample.json: No such file or directory
+jq: error: x/0 is not defined at <top-level>, line 1:
+.match.buckets[$x]               
+jq: 1 compile error
+cat: sample.json: No such file or directory
+jq: error: x/0 is not defined at <top-level>, line 1:
+.match.buckets[$x]               
+jq: 1 compile error
+cat: sample.json: No such file or directory
+jq: error: x/0 is not defined at <top-level>, line 1:
+.match.buckets[$x]               
+jq: 1 compile error
+cat: sample.json: No such file or directory
+jq: error: x/0 is not defined at <top-level>, line 1:
+.match.buckets[$x]               
+jq: 1 compile error
+Thu Oct 26 07:19:48 UTC 2017 See top 10 domain on /opt/top_domains/top.json file
+Thu Oct 26 07:19:55 UTC 2017 Extraction of domains is successful.
+cat: sample.jsonjq: error: x/0 is not defined at <top-level>, line 1:
+.match.buckets[$x]               
+jq: 1 compile error
+: No such file or directory
+cat: sample.json: No such file or directory
+jq: error: x/0 is not defined at <top-level>, line 1:
+.match.buckets[$x]               
+jq: 1 compile error
+cat: sample.json: No such file or directory
+jq: error: x/0 is not defined at <top-level>, line 1:
+.match.buckets[$x]               
+jq: 1 compile error
+cat: sample.json: No such file or directory
+jq: error: x/0 is not defined at <top-level>, line 1:
+.match.buckets[$x]               
+jq: 1 compile error
+cat: sample.json: No such file or directory
+jq: error: x/0 is not defined at <top-level>, line 1:
+.match.buckets[$x]               
+jq: 1 compile error
+cat: sample.json: No such file or directory
+jq: error: x/0 is not defined at <top-level>, line 1:
+.match.buckets[$x]               
+jq: 1 compile error
+cat: sample.json: No such file or directory
+jq: error: x/0 is not defined at <top-level>, line 1:
+.match.buckets[$x]               
+jq: 1 compile error
+cat: sample.json: No such file or directory
+jq: error: x/0 is not defined at <top-level>, line 1:
+.match.buckets[$x]               
+jq: 1 compile error
+cat: sample.json: No such file or directory
+jq: error: x/0 is not defined at <top-level>, line 1:
+.match.buckets[$x]               
+jq: 1 compile error
+cat: sample.json: No such file or directory
+jq: error: x/0 is not defined at <top-level>, line 1:
+.match.buckets[$x]               
+jq: 1 compile error
+Thu Oct 26 07:19:55 UTC 2017 See top 10 domain on /opt/top_domains/top.json file
+Thu Oct 26 07:20:16 UTC 2017 Extraction of domains is successful.
+jq: error: x/0 is not defined at <top-level>, line 1:
+.match.buckets[$x]               
+jq: 1 compile error
+jq: error: x/0 is not defined at <top-level>, line 1:
+.match.buckets[$x]               
+jq: 1 compile error
+jq: error: x/0 is not defined at <top-level>, line 1:
+.match.buckets[$x]               
+jq: 1 compile error
+jq: error: x/0 is not defined at <top-level>, line 1:
+.match.buckets[$x]               
+jq: 1 compile error
+jq: error: x/0 is not defined at <top-level>, line 1:
+.match.buckets[$x]               
+jq: 1 compile error
+jq: error: x/0 is not defined at <top-level>, line 1:
+.match.buckets[$x]               
+jq: 1 compile error
+jq: error: x/0 is not defined at <top-level>, line 1:
+.match.buckets[$x]               
+jq: 1 compile error
+jq: error: x/0 is not defined at <top-level>, line 1:
+.match.buckets[$x]               
+jq: 1 compile error
+jq: error: x/0 is not defined at <top-level>, line 1:
+.match.buckets[$x]               
+jq: 1 compile error
+jq: error: x/0 is not defined at <top-level>, line 1:
+.match.buckets[$x]               
+jq: 1 compile error
+Thu Oct 26 07:20:17 UTC 2017 See top 10 domain on /opt/top_domains/top.json file
+Thu Oct 26 07:21:01 UTC 2017 Extraction of domains is successful.
+jq: error: x/0 is not defined at <top-level>, line 1:
+.match.buckets[$x]               
+jq: 1 compile error
+jq: error: x/0 is not defined at <top-level>, line 1:
+.match.buckets[$x]               
+jq: 1 compile error
+jq: error: x/0 is not defined at <top-level>, line 1:
+.match.buckets[$x]               
+jq: 1 compile error
+jq: error: x/0 is not defined at <top-level>, line 1:
+.match.buckets[$x]               
+jq: 1 compile error
+jq: error: x/0 is not defined at <top-level>, line 1:
+.match.buckets[$x]               
+jq: 1 compile error
+jq: error: x/0 is not defined at <top-level>, line 1:
+.match.buckets[$x]               
+jq: 1 compile error
+Thu Oct 26 07:21:01 UTC 2017 See top 10 domain on /opt/top_domains/top.json file
+Thu Oct 26 07:23:42 UTC 2017 Extraction of domains is successful.
+jq: error: x/0 is not defined at <top-level>, line 1:
+."match".buckets[$x]                 
+jq: 1 compile error
+jq: error: x/0 is not defined at <top-level>, line 1:
+."match".buckets[$x]                 
+jq: 1 compile error
+jq: error: x/0 is not defined at <top-level>, line 1:
+."match".buckets[$x]                 
+jq: 1 compile error
+jq: error: x/0 is not defined at <top-level>, line 1:
+."match".buckets[$x]                 
+jq: 1 compile error
+jq: error: x/0 is not defined at <top-level>, line 1:
+."match".buckets[$x]                 
+jq: 1 compile error
+jq: error: x/0 is not defined at <top-level>, line 1:
+."match".buckets[$x]                 
+jq: 1 compile error
+Thu Oct 26 07:23:42 UTC 2017 See top 10 domain on /opt/top_domains/top.json file
+Thu Oct 26 07:24:37 UTC 2017 Extraction of domains is successful.
+range0
+jq: error: x/0 is not defined at <top-level>, line 1:
+."match".buckets[$x]                 
+jq: 1 compile error
+range1
+jq: error: x/0 is not defined at <top-level>, line 1:
+."match".buckets[$x]                 
+jq: 1 compile error
+range2
+jq: error: x/0 is not defined at <top-level>, line 1:
+."match".buckets[$x]                 
+jq: 1 compile error
+range3
+jq: error: x/0 is not defined at <top-level>, line 1:
+."match".buckets[$x]                 
+jq: 1 compile error
+range4
+jq: error: x/0 is not defined at <top-level>, line 1:
+."match".buckets[$x]                 
+jq: 1 compile error
+range5
+jq: error: x/0 is not defined at <top-level>, line 1:
+."match".buckets[$x]                 
+jq: 1 compile error
+Thu Oct 26 07:24:37 UTC 2017 See top 10 domain on /opt/top_domains/top.json file
+Thu Oct 26 07:24:54 UTC 2017 Extraction of domains is successful.
+range0
+range1
+range2
+range3
+range4
+range5
+Thu Oct 26 07:24:54 UTC 2017 See top 10 domain on /opt/top_domains/top.json file
+Thu Oct 26 07:25:06 UTC 2017 Extraction of domains is successful.
+range
+0
+1
+2
+3
+4
+5
+Thu Oct 26 07:25:06 UTC 2017 See top 10 domain on /opt/top_domains/top.json file
+Thu Oct 26 07:25:14 UTC 2017 Extraction of domains is successful.
+range
+0
+1
+2
+3
+4
+5
+Thu Oct 26 07:25:14 UTC 2017 See top 10 domain on /opt/top_domains/top.json file
+Thu Oct 26 07:25:26 UTC 2017 Extraction of domains is successful.
+0
+1
+2
+3
+4
+5
+Thu Oct 26 07:25:26 UTC 2017 See top 10 domain on /opt/top_domains/top.json file
+Thu Oct 26 07:25:38 UTC 2017 Extraction of domains is successful.
+0
+jq: error: x/0 is not defined at <top-level>, line 1:
+."match".buckets[$x]                 
+jq: 1 compile error
+1
+jq: error: x/0 is not defined at <top-level>, line 1:
+."match".buckets[$x]                 
+jq: 1 compile error
+2
+jq: error: x/0 is not defined at <top-level>, line 1:
+."match".buckets[$x]                 
+jq: 1 compile error
+3
+jq: error: x/0 is not defined at <top-level>, line 1:
+."match".buckets[$x]                 
+jq: 1 compile error
+4
+jq: error: x/0 is not defined at <top-level>, line 1:
+."match".buckets[$x]                 
+jq: 1 compile error
+5
+jq: error: x/0 is not defined at <top-level>, line 1:
+."match".buckets[$x]                 
+jq: 1 compile error
+Thu Oct 26 07:25:38 UTC 2017 See top 10 domain on /opt/top_domains/top.json file
+Thu Oct 26 07:27:06 UTC 2017 Extraction of domains is successful.
+0
+jq: error: x/0 is not defined at <top-level>, line 1:
+."match".buckets[$x]                 
+jq: 1 compile error
+1
+jq: error: x/0 is not defined at <top-level>, line 1:
+."match".buckets[$x]                 
+jq: 1 compile error
+2
+jq: error: x/0 is not defined at <top-level>, line 1:
+."match".buckets[$x]                 
+jq: 1 compile error
+3
+jq: error: x/0 is not defined at <top-level>, line 1:
+."match".buckets[$x]                 
+jq: 1 compile error
+4
+jq: error: x/0 is not defined at <top-level>, line 1:
+."match".buckets[$x]                 
+jq: 1 compile error
+5
+jq: error: x/0 is not defined at <top-level>, line 1:
+."match".buckets[$x]                 
+jq: 1 compile error
+Thu Oct 26 07:27:06 UTC 2017 See top 10 domain on /opt/top_domains/top.json file
+Thu Oct 26 07:28:52 UTC 2017 Extraction of domains is successful.
+0
+jq: error: x/0 is not defined at <top-level>, line 1:
+.["match"].buckets[$x]                   
+jq: 1 compile error
+1
+jq: error: x/0 is not defined at <top-level>, line 1:
+.["match"].buckets[$x]                   
+jq: 1 compile error
+2
+jq: error: x/0 is not defined at <top-level>, line 1:
+.["match"].buckets[$x]                   
+jq: 1 compile error
+3
+jq: error: x/0 is not defined at <top-level>, line 1:
+.["match"].buckets[$x]                   
+jq: 1 compile error
+4
+jq: error: x/0 is not defined at <top-level>, line 1:
+.["match"].buckets[$x]                   
+jq: 1 compile error
+5
+jq: error: x/0 is not defined at <top-level>, line 1:
+.["match"].buckets[$x]                   
+jq: 1 compile error
+Thu Oct 26 07:28:52 UTC 2017 See top 10 domain on /opt/top_domains/top.json file
+Thu Oct 26 07:29:09 UTC 2017 Extraction of domains is successful.
+0
+1
+2
+3
+4
+5
+Thu Oct 26 07:29:09 UTC 2017 See top 10 domain on /opt/top_domains/top.json file
+Thu Oct 26 07:29:33 UTC 2017 Extraction of domains is successful.
+0
+jq: error: x/0 is not defined at <top-level>, line 1:
+.match.buckets[x]               
+jq: 1 compile error
+1
+jq: error: x/0 is not defined at <top-level>, line 1:
+.match.buckets[x]               
+jq: 1 compile error
+2
+jq: error: x/0 is not defined at <top-level>, line 1:
+.match.buckets[x]               
+jq: 1 compile error
+3
+jq: error: x/0 is not defined at <top-level>, line 1:
+.match.buckets[x]               
+jq: 1 compile error
+4
+jq: error: x/0 is not defined at <top-level>, line 1:
+.match.buckets[x]               
+jq: 1 compile error
+5
+jq: error: x/0 is not defined at <top-level>, line 1:
+.match.buckets[x]               
+jq: 1 compile error
+Thu Oct 26 07:29:33 UTC 2017 See top 10 domain on /opt/top_domains/top.json file
+Thu Oct 26 07:30:50 UTC 2017 Extraction of domains is successful.
+./script.sh: line 30: i: command not found
+0
+jq: error: i/0 is not defined at <top-level>, line 1:
+.match.buckets[$i]               
+jq: 1 compile error
+./script.sh: line 30: i: command not found
+1
+jq: error: i/0 is not defined at <top-level>, line 1:
+.match.buckets[$i]               
+jq: 1 compile error
+./script.sh: line 30: i: command not found
+2
+jq: error: i/0 is not defined at <top-level>, line 1:
+.match.buckets[$i]               
+jq: 1 compile error
+./script.sh: line 30: i: command not found
+3
+jq: error: i/0 is not defined at <top-level>, line 1:
+.match.buckets[$i]               
+jq: 1 compile error
+./script.sh: line 30: i: command not found
+4
+jq: error: i/0 is not defined at <top-level>, line 1:
+.match.buckets[$i]               
+jq: 1 compile error
+./script.sh: line 30: i: command not found
+5
+jq: error: i/0 is not defined at <top-level>, line 1:
+.match.buckets[$i]               
+jq: 1 compile error
+Thu Oct 26 07:30:50 UTC 2017 See top 10 domain on /opt/top_domains/top.json file
+Thu Oct 26 07:31:18 UTC 2017 Extraction of domains is successful.
+0
+1
+2
+3
+4
+5
+Thu Oct 26 07:31:18 UTC 2017 See top 10 domain on /opt/top_domains/top.json file
+Thu Oct 26 07:33:07 UTC 2017 Extraction of domains is successful.
+0
+1
+2
+3
+4
+5
+Thu Oct 26 07:33:07 UTC 2017 See top 10 domain on /opt/top_domains/top.json file
+Thu Oct 26 07:33:22 UTC 2017 Extraction of domains is successful.
+0
+1
+2
+3
+4
+5
+Thu Oct 26 07:33:22 UTC 2017 See top 10 domain on /opt/top_domains/top.json file
+Thu Oct 26 07:33:38 UTC 2017 Extraction of domains is successful.
+jq: error: i/0 is not defined at <top-level>, line 1:
+.match.buckets[$i]               
+jq: 1 compile error
+jq: error: i/0 is not defined at <top-level>, line 1:
+.match.buckets[$i]               
+jq: 1 compile error
+jq: error: i/0 is not defined at <top-level>, line 1:
+.match.buckets[$i]               
+jq: 1 compile error
+jq: error: i/0 is not defined at <top-level>, line 1:
+.match.buckets[$i]               
+jq: 1 compile error
+jq: error: i/0 is not defined at <top-level>, line 1:
+.match.buckets[$i]               
+jq: 1 compile error
+jq: error: i/0 is not defined at <top-level>, line 1:
+.match.buckets[$i]               
+jq: 1 compile error
+Thu Oct 26 07:33:38 UTC 2017 See top 10 domain on /opt/top_domains/top.json file
+Thu Oct 26 07:35:15 UTC 2017 Extraction of domains is successful.
+jq: error: i/0 is not defined at <top-level>, line 1:
+.match.buckets[i]               
+jq: 1 compile error
+jq: error: i/0 is not defined at <top-level>, line 1:
+.match.buckets[i]               
+jq: 1 compile error
+jq: error: i/0 is not defined at <top-level>, line 1:
+.match.buckets[i]               
+jq: 1 compile error
+jq: error: i/0 is not defined at <top-level>, line 1:
+.match.buckets[i]               
+jq: 1 compile error
+jq: error: i/0 is not defined at <top-level>, line 1:
+.match.buckets[i]               
+jq: 1 compile error
+jq: error: i/0 is not defined at <top-level>, line 1:
+.match.buckets[i]               
+jq: 1 compile error
+Thu Oct 26 07:35:15 UTC 2017 See top 10 domain on /opt/top_domains/top.json file
+Thu Oct 26 07:37:35 UTC 2017 Extraction of domains is successful.
+jq: error: i/0 is not defined at <top-level>, line 1:
+.match.buckets[$i]               
+jq: 1 compile error
+jq: error: i/0 is not defined at <top-level>, line 1:
+.match.buckets[$i]               
+jq: 1 compile error
+jq: error: i/0 is not defined at <top-level>, line 1:
+.match.buckets[$i]               
+jq: 1 compile error
+jq: error: i/0 is not defined at <top-level>, line 1:
+.match.buckets[$i]               
+jq: 1 compile error
+jq: error: i/0 is not defined at <top-level>, line 1:
+.match.buckets[$i]               
+jq: 1 compile error
+jq: error: i/0 is not defined at <top-level>, line 1:
+.match.buckets[$i]               
+jq: 1 compile error
+Thu Oct 26 07:37:35 UTC 2017 See top 10 domain on /opt/top_domains/top.json file
+Thu Oct 26 07:39:28 UTC 2017 Extraction of domains is successful.
+jq: error: i/0 is not defined at <top-level>, line 1:
+.match.buckets[$i]               
+jq: 1 compile error
+jq: error: i/0 is not defined at <top-level>, line 1:
+.match.buckets[$i]               
+jq: 1 compile error
+jq: error: i/0 is not defined at <top-level>, line 1:
+.match.buckets[$i]               
+jq: 1 compile error
+jq: error: i/0 is not defined at <top-level>, line 1:
+.match.buckets[$i]               
+jq: 1 compile error
+jq: error: i/0 is not defined at <top-level>, line 1:
+.match.buckets[$i]               
+jq: 1 compile error
+jq: error: i/0 is not defined at <top-level>, line 1:
+.match.buckets[$i]               
+jq: 1 compile error
+Thu Oct 26 07:39:28 UTC 2017 See top 10 domain on /opt/top_domains/top.json file
+Thu Oct 26 07:39:53 UTC 2017 Extraction of domains is successful.
+jq: error: i/0 is not defined at <top-level>, line 1:
+.match.buckets[$i]               
+jq: 1 compile error
+jq: error: i/0 is not defined at <top-level>, line 1:
+.match.buckets[$i]               
+jq: 1 compile error
+jq: error: i/0 is not defined at <top-level>, line 1:
+.match.buckets[$i]               
+jq: 1 compile error
+jq: error: i/0 is not defined at <top-level>, line 1:
+.match.buckets[$i]               
+jq: 1 compile error
+jq: error: i/0 is not defined at <top-level>, line 1:
+.match.buckets[$i]               
+jq: 1 compile error
+jq: error: i/0 is not defined at <top-level>, line 1:
+.match.buckets[$i]               
+jq: 1 compile error
+Thu Oct 26 07:39:53 UTC 2017 See top 10 domain on /opt/top_domains/top.json file
+Thu Oct 26 07:40:08 UTC 2017 Extraction of domains is successful.
+jq: error: i/0 is not defined at <top-level>, line 1:
+.match.buckets[$i]               
+jq: 1 compile error
+jq: error: i/0 is not defined at <top-level>, line 1:
+.match.buckets[$i]               
+jq: 1 compile error
+jq: error: i/0 is not defined at <top-level>, line 1:
+.match.buckets[$i]               
+jq: 1 compile error
+jq: error: i/0 is not defined at <top-level>, line 1:
+.match.buckets[$i]               
+jq: 1 compile error
+jq: error: i/0 is not defined at <top-level>, line 1:
+.match.buckets[$i]               
+jq: 1 compile error
+jq: error: i/0 is not defined at <top-level>, line 1:
+.match.buckets[$i]               
+jq: 1 compile error
+Thu Oct 26 07:40:08 UTC 2017 See top 10 domain on /opt/top_domains/top.json file
+Thu Oct 26 07:51:08 UTC 2017 Extraction of domains is successful.
+{
+  "key": "www.99uulove.com",
+  "doc_count": 185
+}
+{
+  "key": "m.99uulove.com",
+  "doc_count": 12
+}
+{
+  "key": "api.localdomain",
+  "doc_count": 8
+}
+{
+  "key": "192.168.142.249",
+  "doc_count": 4
+}
+{
+  "key": "m.gpi678.com",
+  "doc_count": 4
+}
+{
+  "key": "www.gpi678.com",
+  "doc_count": 4
+}
+Thu Oct 26 07:51:08 UTC 2017 See top 10 domain on /opt/top_domains/top.json file
+Thu Oct 26 07:51:52 UTC 2017 Extraction of domains is successful.
+Thu Oct 26 07:51:52 UTC 2017 See top 10 domain on /opt/top_domains/top.json file
+Thu Oct 26 07:52:10 UTC 2017 Extraction of domains is successful.
+Thu Oct 26 07:52:10 UTC 2017 See top 10 domain on /opt/top_domains/top.json file
+Thu Oct 26 08:02:42 UTC 2017 Extraction of domains is successful.
+Thu Oct 26 08:02:42 UTC 2017 See top 10 domain on /opt/top_domains/json/top.json file
+Thu Oct 26 08:03:18 UTC 2017 Extraction of domains is successful.
+Thu Oct 26 08:03:18 UTC 2017 See top 10 domain on /opt/top_domains/json/top.json file
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0100   491  100   352  100   139  68709  27132 --:--:-- --:--:-- --:--:-- 70400
+{
+  "error" : {
+    "root_cause" : [
+      {
+        "type" : "parsing_exception",
+        "reason" : "Unknown key for a START_OBJECT in [range].",
+        "line" : 1,
+        "col" : 12
+      }
+    ],
+    "type" : "parsing_exception",
+    "reason" : "Unknown key for a START_OBJECT in [range].",
+    "line" : 1,
+    "col" : 12
+  },
+  "status" : 400
+}
+awk: fatal: cannot open file `/opt/top_domains/json/query.json' for reading (No such file or directory)
+Thu Oct 26 08:49:18 UTC 2017 Extraction of domains failed!
+Thu Oct 26 08:49:18 UTC 2017 See top 10 domain on /opt/top_domains/json/top.json file
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0100   491  100   352  100   139  61624  24334 --:--:-- --:--:-- --:--:-- 70400
+Thu Oct 26 08:50:09 UTC 2017 Extraction of domains is successful.
+parse error: Unmatched '}' at line 2, column 2
+parse error: Unmatched '}' at line 2, column 2
+parse error: Unmatched '}' at line 2, column 2
+parse error: Unmatched '}' at line 2, column 2
+parse error: Unmatched '}' at line 2, column 2
+parse error: Unmatched '}' at line 2, column 2
+Thu Oct 26 08:50:09 UTC 2017 See top 10 domain on /opt/top_domains/json/top.json file
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0{
+  "took" : 2,
+  "timed_out" : false,
+  "_shards" : {
+    "total" : 4,
+    "successful" : 4,
+    "failed" : 0
+  },
+  "hits" : {
+    "total" : 1094,
+    "max_score" : 1.0,
+    "hits" : [
+      {
+        "_index" : "accesslogs_0",
+        "_type" : "message",
+        "_id" : "b700d5f1-b871-11e7-a4f9-cee2455cd53f",
+        "_score" : 1.0,
+        "_source" : {
+          "from_nginx" : "true",
+          "gl2_remote_ip" : "192.168.142.249",
+          "gl2_remote_port" : 51291,
+          "source" : "local-lb01",
+          "gl2_source_input" : "59ed7abf5bb1cf3a05c1dd09",
+          "http_user_agent" : "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.100 Safari/537.36",
+          "remote_user" : "-",
+          "gl2_source_node" : "75000c70-53ca-49b6-b89d-cb6796921877",
+          "timestamp" : "2017-10-24 04:13:39.000",
+          "request_verb" : "GET",
+          "remote_addr" : "192.168.142.63",
+          "response_status" : 200,
+          "level" : 6,
+          "streams" : [
+            "000000000000000000000001",
+            "547b29b6d4c6c10b4f1b934d",
+            "5445736fd4c6d7d480b5f4c2"
+          ],
+          "http_version" : "1.1",
+          "response_bytes" : 31247,
+          "message" : "GET /uploaded/d11ec537a9a653972b8fbeaa7789c6f4_577514dbd4575.jpeg HTTP/1.1",
+          "nginx_access" : "true",
+          "http_referer" : "http://cms.marvin/",
+          "request_path" : "/uploaded/d11ec537a9a653972b8fbeaa7789c6f4_577514dbd4575.jpeg",
+          "millis" : 0.0,
+          "facility" : "local7"
+        }
+      },
+      {
+        "_index" : "accesslogs_0",
+        "_type" : "message",
+        "_id" : "b70346f0-b871-11e7-a4f9-cee2455cd53f",
+        "_score" : 1.0,
+        "_source" : {
+          "from_nginx" : "true",
+          "gl2_remote_ip" : "192.168.142.249",
+          "gl2_remote_port" : 51291,
+          "source" : "local-lb01",
+          "gl2_source_input" : "59ed7abf5bb1cf3a05c1dd09",
+          "http_user_agent" : "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.100 Safari/537.36",
+          "remote_user" : "-",
+          "gl2_source_node" : "75000c70-53ca-49b6-b89d-cb6796921877",
+          "timestamp" : "2017-10-24 04:13:39.000",
+          "request_verb" : "GET",
+          "remote_addr" : "192.168.142.63",
+          "response_status" : 200,
+          "level" : 6,
+          "streams" : [
+            "000000000000000000000001",
+            "547b29b6d4c6c10b4f1b934d",
+            "5445736fd4c6d7d480b5f4c2"
+          ],
+          "http_version" : "1.1",
+          "response_bytes" : 75464,
+          "message" : "GET /css/fonts/HelveticaNeueLatin300.woff HTTP/1.1",
+          "nginx_access" : "true",
+          "http_referer" : "http://cms.marvin/release/style.1c6b59a1.css",
+          "request_path" : "/css/fonts/HelveticaNeueLatin300.woff",
+          "millis" : 0.0,
+          "facility" : "local7"
+        }
+      },
+      {
+        "_index" : "accesslogs_0",
+        "_type" : "message",
+        "_id" : "b72c52c1-b871-11e7-a4f9-cee2455cd53f",
+        "_score" : 1.0,
+        "_source" : {
+          "from_nginx" : "true",
+          "gl2_remote_ip" : "192.168.142.249",
+          "gl2_remote_port" : 51291,
+          "source" : "local-lb01",
+          "gl2_source_input" : "59ed7abf5bb1cf3a05c1dd09",
+          "http_user_agent" : "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.100 Safari/537.36",
+          "remote_user" : "-",
+          "gl2_source_node" : "75000c70-53ca-49b6-b89d-cb6796921877",
+          "timestamp" : "2017-10-24 04:13:40.000",
+          "request_verb" : "GET",
+          "remote_addr" : "192.168.142.63",
+          "response_status" : 200,
+          "level" : 6,
+          "streams" : [
+            "000000000000000000000001",
+            "547b29b6d4c6c10b4f1b934d",
+            "5445736fd4c6d7d480b5f4c2"
+          ],
+          "http_version" : "1.1",
+          "response_bytes" : 55927,
+          "message" : "GET /uploaded/492d6584bdea02785e5e6c0658de1c88_5804aeaaddddf.jpeg HTTP/1.1",
+          "nginx_access" : "true",
+          "http_referer" : "http://cms.marvin/",
+          "request_path" : "/uploaded/492d6584bdea02785e5e6c0658de1c88_5804aeaaddddf.jpeg",
+          "millis" : 0.0,
+          "facility" : "local7"
+        }
+      },
+      {
+        "_index" : "accesslogs_0",
+        "_type" : "message",
+        "_id" : "b7307170-b871-11e7-a4f9-cee2455cd53f",
+        "_score" : 1.0,
+        "_source" : {
+          "from_nginx" : "true",
+          "gl2_remote_ip" : "192.168.142.249",
+          "gl2_remote_port" : 51291,
+          "source" : "local-lb01",
+          "gl2_source_input" : "59ed7abf5bb1cf3a05c1dd09",
+          "http_user_agent" : "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.100 Safari/537.36",
+          "remote_user" : "-",
+          "gl2_source_node" : "75000c70-53ca-49b6-b89d-cb6796921877",
+          "timestamp" : "2017-10-24 04:13:40.000",
+          "request_verb" : "GET",
+          "remote_addr" : "192.168.142.63",
+          "response_status" : 200,
+          "level" : 6,
+          "streams" : [
+            "000000000000000000000001",
+            "547b29b6d4c6c10b4f1b934d",
+            "5445736fd4c6d7d480b5f4c2"
+          ],
+          "http_version" : "1.1",
+          "response_bytes" : 10745,
+          "message" : "GET /sites/default/files/6%E7%88%B1%E8%BF%90%E5%8A%A8%EF%BC%88%E5%B0%8F%EF%BC%89.jpg HTTP/1.1",
+          "nginx_access" : "true",
+          "http_referer" : "http://cms.marvin/",
+          "request_path" : "/sites/default/files/6%E7%88%B1%E8%BF%90%E5%8A%A8%EF%BC%88%E5%B0%8F%EF%BC%89.jpg",
+          "millis" : 0.0,
+          "facility" : "local7"
+        }
+      },
+      {
+        "_index" : "accesslogs_0",
+        "_type" : "message",
+        "_id" : "b7355371-b871-11e7-a4f9-cee2455cd53f",
+        "_score" : 1.0,
+        "_source" : {
+          "from_nginx" : "true",
+          "gl2_remote_ip" : "192.168.142.249",
+          "gl2_remote_port" : 51291,
+          "source" : "local-lb01",
+          "gl2_source_input" : "59ed7abf5bb1cf3a05c1dd09",
+          "http_user_agent" : "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.100 Safari/537.36",
+          "remote_user" : "-",
+          "gl2_source_node" : "75000c70-53ca-49b6-b89d-cb6796921877",
+          "timestamp" : "2017-10-24 04:13:40.000",
+          "request_verb" : "GET",
+          "remote_addr" : "192.168.142.63",
+          "response_status" : 200,
+          "level" : 6,
+          "streams" : [
+            "000000000000000000000001",
+            "547b29b6d4c6c10b4f1b934d",
+            "5445736fd4c6d7d480b5f4c2"
+          ],
+          "http_version" : "1.1",
+          "response_bytes" : 80510,
+          "message" : "GET /uploaded/7a2c2e7074aa87308c47529d11bc4d30_58871e17ca7e4.jpeg HTTP/1.1",
+          "nginx_access" : "true",
+          "http_referer" : "http://cms.marvin/",
+          "request_path" : "/uploaded/7a2c2e7074aa87308c47529d11bc4d30_58871e17ca7e4.jpeg",
+          "millis" : 0.0,
+          "facility" : "local7"
+        }
+      },
+      {
+        "_index" : "accesslogs_0",
+        "_type" : "message",
+        "_id" : "b7377650-b871-11e7-a4f9-cee2455cd53f",
+        "_score" : 1.0,
+        "_source" : {
+          "from_nginx" : "true",
+          "gl2_remote_ip" : "192.168.142.249",
+          "gl2_remote_port" : 51291,
+          "source" : "local-lb01",
+          "gl2_source_input" : "59ed7abf5bb1cf3a05c1dd09",
+          "http_user_agent" : "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.100 Safari/537.36",
+          "remote_user" : "-",
+          "gl2_source_node" : "75000c70-53ca-49b6-b89d-cb6796921877",
+          "timestamp" : "2017-10-24 04:13:40.000",
+          "request_verb" : "GET",
+          "remote_addr" : "192.168.142.63",
+          "response_status" : 200,
+          "level" : 6,
+          "streams" : [
+            "000000000000000000000001",
+            "547b29b6d4c6c10b4f1b934d",
+            "5445736fd4c6d7d480b5f4c2"
+          ],
+          "http_version" : "1.1",
+          "response_bytes" : 14935,
+          "message" : "GET /uploaded/d0ad742a32cbb79bd421f73fc867045e_57e9f3dfdc68f.jpeg HTTP/1.1",
+          "nginx_access" : "true",
+          "http_referer" : "http://cms.marvin/",
+          "request_path" : "/uploaded/d0ad742a32cbb79bd421f73fc867045e_57e9f3dfdc68f.jpeg",
+          "millis" : 0.0,
+          "facility" : "local7"
+        }
+      },
+      {
+        "_index" : "accesslogs_0",
+        "_type" : "message",
+        "_id" : "b7640490-b871-11e7-a4f9-cee2455cd53f",
+        "_score" : 1.0,
+        "_source" : {
+          "from_nginx" : "true",
+          "gl2_remote_ip" : "192.168.142.249",
+          "gl2_remote_port" : 51291,
+          "source" : "local-lb01",
+          "gl2_source_input" : "59ed7abf5bb1cf3a05c1dd09",
+          "http_user_agent" : "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.100 Safari/537.36",
+          "remote_user" : "-",
+          "gl2_source_node" : "75000c70-53ca-49b6-b89d-cb6796921877",
+          "timestamp" : "2017-10-24 04:13:40.000",
+          "request_verb" : "GET",
+          "remote_addr" : "192.168.142.63",
+          "response_status" : 200,
+          "level" : 6,
+          "streams" : [
+            "000000000000000000000001",
+            "547b29b6d4c6c10b4f1b934d",
+            "5445736fd4c6d7d480b5f4c2"
+          ],
+          "http_version" : "1.1",
+          "response_bytes" : 605959,
+          "message" : "GET /uploaded/bc550427c0d032a11e36aa139b64a1f0_5804b2b374bdb.jpeg HTTP/1.1",
+          "nginx_access" : "true",
+          "http_referer" : "http://cms.marvin/",
+          "request_path" : "/uploaded/bc550427c0d032a11e36aa139b64a1f0_5804b2b374bdb.jpeg",
+          "millis" : 0.097,
+          "facility" : "local7"
+        }
+      },
+      {
+        "_index" : "accesslogs_0",
+        "_type" : "message",
+        "_id" : "2909ee40-b884-11e7-a4f9-cee2455cd53f",
+        "_score" : 1.0,
+        "_source" : {
+          "request_verb" : "GET",
+          "server" : "www.99uu.com",
+          "remote_addr" : "192.168.142.230",
+          "from_nginx" : "true",
+          "level" : 3,
+          "gl2_remote_ip" : "192.168.142.249",
+          "gl2_remote_port" : 53488,
+          "streams" : [
+            "000000000000000000000001",
+            "547b29b6d4c6c10b4f1b934d",
+            "5445733cd4c6d7d480b5f48b"
+          ],
+          "source" : "local-lb01",
+          "message" : "local-lb01 nginx: 2017/10/24 14:25:42 [error] 20627#20627: *913 connect() failed (111: Connection refused) while connecting to upstream, client: 192.168.142.230, server: www.99uu.com, request: \"GET /index.php HTTP/1.0\", upstream: \"fastcgi://192.168.142.247:10002\", host: \"www.99uulove.com\"",
+          "gl2_source_input" : "59ed7abe5bb1cf3a05c1dd06",
+          "nginx_error" : "true",
+          "host" : "www.99uulove.com",
+          "request_path" : "GET /index.php HTTP/1.0",
+          "gl2_source_node" : "75000c70-53ca-49b6-b89d-cb6796921877",
+          "facility" : "local7",
+          "timestamp" : "2017-10-24 14:25:42.000"
+        }
+      },
+      {
+        "_index" : "accesslogs_0",
+        "_type" : "message",
+        "_id" : "290a1551-b884-11e7-a4f9-cee2455cd53f",
+        "_score" : 1.0,
+        "_source" : {
+          "from_nginx" : "true",
+          "gl2_remote_ip" : "192.168.142.249",
+          "gl2_remote_port" : 44649,
+          "source" : "local-lb01",
+          "gl2_source_input" : "59ed7abf5bb1cf3a05c1dd09",
+          "http_user_agent" : "ApacheBench/2.3",
+          "remote_user" : "-",
+          "gl2_source_node" : "75000c70-53ca-49b6-b89d-cb6796921877",
+          "timestamp" : "2017-10-24 06:25:42.000",
+          "request_verb" : "GET",
+          "remote_addr" : "192.168.142.230",
+          "response_status" : 502,
+          "level" : 6,
+          "streams" : [
+            "5445736fd4c6d7d480b5f4c2",
+            "000000000000000000000001",
+            "547b2a77d4c6c10b4f1b941f",
+            "547b29b6d4c6c10b4f1b934d"
+          ],
+          "htt100 14323  100 14174  100   149  1204k  12962 --:--:-- --:--:-- --:--:-- 1258k
+p_version" : "1.0",
+          "response_bytes" : 166,
+          "message" : "GET /index.php HTTP/1.0",
+          "nginx_access" : "true",
+          "http_referer" : "-",
+          "request_path" : "/index.php",
+          "millis" : 0.001,
+          "facility" : "local7"
+        }
+      },
+      {
+        "_index" : "accesslogs_0",
+        "_type" : "message",
+        "_id" : "290c3834-b884-11e7-a4f9-cee2455cd53f",
+        "_score" : 1.0,
+        "_source" : {
+          "request_verb" : "GET",
+          "server" : "www.99uu.com",
+          "remote_addr" : "192.168.142.230",
+          "from_nginx" : "true",
+          "level" : 3,
+          "gl2_remote_ip" : "192.168.142.249",
+          "gl2_remote_port" : 53488,
+          "streams" : [
+            "000000000000000000000001",
+            "547b29b6d4c6c10b4f1b934d",
+            "5445733cd4c6d7d480b5f48b"
+          ],
+          "source" : "local-lb01",
+          "message" : "local-lb01 nginx: 2017/10/24 14:25:42 [error] 20627#20627: *917 no live upstreams while connecting to upstream, client: 192.168.142.230, server: www.99uu.com, request: \"GET /index.php HTTP/1.0\", upstream: \"fastcgi://fastcgi_web\", host: \"www.99uulove.com\"",
+          "gl2_source_input" : "59ed7abe5bb1cf3a05c1dd06",
+          "nginx_error" : "true",
+          "host" : "www.99uulove.com",
+          "request_path" : "GET /index.php HTTP/1.0",
+          "gl2_source_node" : "75000c70-53ca-49b6-b89d-cb6796921877",
+          "facility" : "local7",
+          "timestamp" : "2017-10-24 14:25:42.000"
+        }
+      }
+    ]
+  },
+  "aggregations" : {
+    "match" : {
+      "doc_count_error_upper_bound" : 0,
+      "sum_other_doc_count" : 0,
+      "buckets" : [
+        {
+          "key" : "www.99uulove.com",
+          "doc_count" : 161
+        },
+        {
+          "key" : "192.168.142.249",
+          "doc_count" : 4
+        }
+      ]
+    }
+  }
+}
+awk: fatal: cannot open file `/opt/top_domains/json/query.json' for reading (No such file or directory)
+Thu Oct 26 08:51:53 UTC 2017 Extraction of domains failed!
+Thu Oct 26 08:51:53 UTC 2017 See top 10 domain on /opt/top_domains/json/top.json file
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0100 14323  100 14174  100   149  4039k  43478 --:--:-- --:--:-- --:--:-- 4613k
+Thu Oct 26 08:52:46 UTC 2017 Extraction of domains is successful.
+Thu Oct 26 08:52:46 UTC 2017 See top 10 domain on /opt/top_domains/json/top.json file
+Thu Oct 26 08:52:58 UTC 2017 Extraction of domains is successful.
+Thu Oct 26 08:52:58 UTC 2017 See top 10 domain on /opt/top_domains/json/top.json file
+Thu Oct 26 08:53:26 UTC 2017 Extraction of domains is successful.
+Thu Oct 26 08:53:26 UTC 2017 See top 10 domain on /opt/top_domains/json/top.json file

@@ -1,0 +1,27 @@
+{
+    "match" : {
+      "doc_count_error_upper_bound" : 0,
+      "sum_other_doc_count" : 0,
+      "buckets" : [
+        {
+          "key" : "www.99uulove.com",
+          "doc_count" : 174
+        },
+        {
+          "key" : "api.localdomain",
+          "doc_count" : 8
+        },
+        {
+          "key" : "192.168.142.249",
+          "doc_count" : 4
+        },
+        {
+          "key" : "m.gpi678.com",
+          "doc_count" : 4
+        },
+        {
+          "key" : "www.gpi678.com",
+          "doc_count" : 4
+        }
+      ]
+}}
